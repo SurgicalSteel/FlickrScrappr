@@ -4,8 +4,8 @@ import (
 	"fmt"
 )
 
-// UserID is the unique ID you find on someone's flickr photostream. For example : 0129401173@N02
-const UserID = "129401173@N02"
+// UserID is the unique ID you find on someone's flickr photostream. For example : 6660129401173@N02
+const UserID = ""
 
 func main() {
 	pageRaw, pageString, err := GetPage(GetMainPageLink(UserID))
@@ -65,5 +65,3 @@ func main() {
 	}
 
 }
-
-// Note : if you want to see cool stuffs, remove the '0' on the prefix
