@@ -21,5 +21,4 @@ What you need to do :
 If the target url page is https://www.flickr.com/photos/666129401173@N02/
 then the user ID is 666129401173@N02
 
-### This repository is open for contribution
-:)
+### This repository has been archived as there are no new improvements.
